@@ -1,0 +1,39 @@
+{
+	"escolas": [
+		{
+			"id": 1,
+			"nome": "Escola de Teste 1",
+			"cnpj": "00000000000000"
+		},
+		{
+			"id": 2,
+			"nome": "Escola de Teste 2",
+			"cnpj": "00000000000001"
+		},
+		{
+			"id": 3,
+			"nome": "Escola de Teste 3",
+			"cnpj": "00000000000003"
+		},
+		{
+			"id": 4,
+			"nome": "Escola de Teste 4",
+			"cnpj": "00000000000004"
+		},
+		{
+			"id": 5,
+			"nome": "Escola de Teste 5",
+			"cnpj": "00000000000004"
+		}
+	],
+	"avaliacoes": [
+		{
+			"id": 1,
+			"escola_id": 1,
+			"nota": 10,
+			"comentario": "Comentário do avaliador",
+			"nome_avaliador": "João Maria",
+			"data_avaliacao": "2020-09-10 23:59:54"
+		}
+	]
+}
